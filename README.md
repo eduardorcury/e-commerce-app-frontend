@@ -5,7 +5,7 @@
 # Aplicativo mobile de E-Commerce
 
 > Aplicativo Android/iOS para compra de produtos criado com Ionic e Typescript. 
-Backend da aplicação disponível [aqui](https://github.com/eduardorcury/spring-boot-ionic-backend).
+Backend da aplicação disponível [aqui](https://github.com/eduardorcury/e-commerce-app-backend).
 
 ## :wrench: &nbsp;&nbsp; Ferramentas utilizadas
 
