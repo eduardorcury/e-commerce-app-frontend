@@ -49,7 +49,7 @@ Lista de produtos de uma dada categoria, com imagems individuais. Página com re
 Contém os itens selecionados pelo usuário para compra. Mostra a quantidade de unidades de cada produto, o preço individual e o preço total. A partir dessa página, é possível continuar comprando (voltando à página de categorias) ou finalizar o pedido.
 
 <p align="center">
-  <img width="300" height="520" src="https://github.com/eduardorcury/e-commerce-app-frontend/blob/master/resources/screenshots/Carrinho.png">
+  <img width="300" height="474" src="https://github.com/eduardorcury/e-commerce-app-frontend/blob/master/resources/screenshots/Carrinho.png">
 </p>
 
 ### Finalização do pedido
@@ -71,13 +71,15 @@ Tela de confirmação com um resumo da compra: itens selecionados, valor total, 
 
 ### Envio de email 
 
+Ao confirmar o pedido, um email com os detalhes da compra é enviado ao email cadastrado do usuário.
+
 <p align="center">
   <img width="588" height="546" src="https://github.com/eduardorcury/e-commerce-app-frontend/blob/master/resources/screenshots/Email.png">
 </p>
 
 ### Página de perfil
 
-Contém as informações do usuário: nome, email e imagem. Também permite a captura e upload de fotos de perfil para o backend, acessando  a Câmera do smartphone com [Apache Cordova](https://github.com/apache/cordova).
+Contém as informações do usuário: nome, email e imagem. Também permite a captura e upload de fotos de perfil para o backend, acessando  a Câmera do smartphone com [Apache Cordova](https://github.com/apache/cordova). As imagens são armazenadas no bucket da Amazon S3.
 
 <p align="center">
   <img width="300" height="423" src="https://github.com/eduardorcury/e-commerce-app-frontend/blob/master/resources/screenshots/Perfil.png">
